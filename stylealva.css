@@ -1,0 +1,41 @@
+body {
+  background-image: url(fotoalva.jpg);
+  background-size: 1500px;
+  font-family: cursive;
+}
+
+.judul {
+  text-align: center;
+}
+
+td,
+th {
+  border: 2px solid red;
+  text-align: center;
+  padding: 10px;
+}
+
+td:hover {
+  background-color: yellow;
+}
+
+th:hover {
+  background-color: blue;
+}
+
+.tombol-back-bestie {
+  margin-top: 40px;
+}
+
+.tombol-back-bestie a {
+  background-color: rgb(83, 83, 95);
+  font-size: 20px;
+  color: black;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+.tombol-back-bestie a:hover {
+  background-color: gray;
+}
